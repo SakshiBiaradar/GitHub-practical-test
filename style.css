@@ -7,11 +7,11 @@
 body {
     font-family: Arial, sans-serif;
     background: #f4f4f9;
-    color: #333;
+    color: #efa8d7;
 }
 
 header {
-    background: #25245c;
+    background: #e7768a;
     color: white;
     text-align: center;
     padding: 30px;
@@ -20,7 +20,7 @@ header {
 .hero {
     text-align: center;
     padding: 80px 20px;
-    background: #e5e5ff;
+    background: #a86b8f;
 }
 
 .hero h2 {
@@ -29,7 +29,7 @@ header {
 }
 
 .hero span {
-    color: #5145cd;
+    color: #dd67bb;
 }
 
 .hero h3 {
@@ -87,7 +87,7 @@ section h2 {
 }
 
 .project-card {
-    background: white;
+    background: rgba(207, 227, 155, 0.239);
     padding: 25px;
     max-width: 400px;
     margin: auto;
