@@ -116,3 +116,26 @@ footer {
         align-items: center;
     }
 }
+.navbar {
+    background: #25245c;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #bdb8ff;
+}
